@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssmirnovacode
-- 👀 I’m interested in JavaScript, React, NodeJS
-- 🌱 I’m currently learning React, NodeJS
+- 👀 I’m interested in JavaScript, React, NodeJS, React Native
+- 🌱 I’m currently learning React, React Native
 <!---
 - 💞️ I’m looking to collaborate on UI design
 - 📫 How to reach me ...
